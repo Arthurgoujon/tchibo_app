@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>562844856358-6douqnri20db0aov0mjsej60320jlg58.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.562844856358-6douqnri20db0aov0mjsej60320jlg58</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>562844856358-k9moismeo0masif29crh689v0melrdei.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDCrbu396bLEWcrwjVBaCUgn8rxQwArXI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>562844856358</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.blecoupon</string>
+	<key>PROJECT_ID</key>
+	<string>giftcard-c94be</string>
+	<key>STORAGE_BUCKET</key>
+	<string>giftcard-c94be.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:562844856358:ios:0b96472cc0c6675a7b76e7</string>
+	<key>DATABASE_URL</key>
+	<string>https://giftcard-c94be.firebaseio.com</string>
+</dict>
+</plist>

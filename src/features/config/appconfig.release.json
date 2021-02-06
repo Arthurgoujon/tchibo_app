@@ -1,0 +1,9 @@
+{
+    "firebaseWebClientId": "562844856358-7oh7shropenf7bl23aj61vshd7lg86p6.apps.googleusercontent.com",
+    "apiBaseUrl": "https://limitless-plains-30268.herokuapp.com/api/",
+    "stripeKey": "pk_test_51HBlfwEsiPu3x6QYhAkKTstnIyPFMtV54HnjqwNtCQe8tqJ5cx1DMAwRsNxIzjHJUTJhInVhk2kfHj3jWxgCFnR600WonMWhX0",
+    "paymentConfirmApiTimeoutMs": 50000,
+    "defaultRequestTimeoutMs": 30000,
+    "couponUrlPrefix": "https://monkado.co.uk/coupon?",
+     "googlePlacesToken": "AIzaSyAC4hO0TTtJRHkNLoOF9eMbJsQsny7pGuc"
+}

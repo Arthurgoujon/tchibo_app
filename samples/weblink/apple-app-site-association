@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ZF55HC938U.com.blecoupon",
+                "paths": [ "/appLink/*"]
+            }
+        ]
+    }
+}

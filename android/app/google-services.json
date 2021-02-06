@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562844856358",
+    "firebase_url": "https://giftcard-c94be.firebaseio.com",
+    "project_id": "giftcard-c94be",
+    "storage_bucket": "giftcard-c94be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562844856358:android:34fdd37791b2e2ce7b76e7",
+        "android_client_info": {
+          "package_name": "com.blecoupon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562844856358-s5gqfe3amflusf21gf286q7r1hlfbonq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blecoupon",
+            "certificate_hash": "190d531e9a67e2ca69c7de2fb542cb62b599262c"
+          }
+        },
+        {
+          "client_id": "562844856358-7oh7shropenf7bl23aj61vshd7lg86p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPpyJv7vIj1rwJ_vkGrHrORjdrGOq9DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562844856358-7oh7shropenf7bl23aj61vshd7lg86p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
