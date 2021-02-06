@@ -81,7 +81,7 @@ export const ClaimProductScreen = () => {
                 color={
                   claimType === ActiveClaimTypeCard.barcode
                     ? '#FF3333'
-                    : '#FFC72C'
+                    : '#013976'
                 }
               />
             )}
@@ -92,7 +92,7 @@ export const ClaimProductScreen = () => {
               <BluetoothSvg
                 {...st.switcherBtnIcon}
                 color={
-                  claimType === ActiveClaimTypeCard.ble ? '#FF3333' : '#FFC72C'
+                  claimType === ActiveClaimTypeCard.ble ? '#FF3333' : '#013976'
                 }
               />
             )}

@@ -9,7 +9,7 @@
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "link": "react-native link",
-    "gensplash": "react-native generate-bootsplash assets/logo.png --background-color=FFC72C --logo-width=100  --assets-path=assets"
+    "gensplash": "react-native generate-bootsplash assets/logo.png --background-color=013976 --logo-width=100  --assets-path=assets"
   },
   "dependencies": {
     "@invertase/react-native-apple-authentication": "^2.1.0",

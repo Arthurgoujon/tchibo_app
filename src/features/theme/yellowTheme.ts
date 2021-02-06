@@ -3,7 +3,7 @@ import {MonkadoTheme} from './MonkadoTheme';
 
 export const useYellowTheme = () => {
   const mainbackGroundColor = '#FFFFFF';
-  const primaryColor1 = '#FFC72C';
+  const primaryColor1 = '#013976';
   const secondaryColor = '#FF3333';
 
   const mainFont: TextStyle = {
@@ -33,7 +33,7 @@ export const useYellowTheme = () => {
 
   const theme: MonkadoTheme = {
     spacing,
-    mainColor: '#FFC72C',
+    mainColor: '#013976',
     backGroundColor: mainbackGroundColor,
     productCardTitleFont: {
       fontFamily: 'Raleway-Light',
